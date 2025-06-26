@@ -1,5 +1,6 @@
 Board Writer from Chapter 3 brought to Kristal.
 This library adds a new function to WorldCutscene, `boardText()`
+(See `scripts/world/cutscenes/BoardWriterTest` as an example)
 
 # Instructions
 To use the function, put `cutscene:boardText()` in any WorldCutscene.
